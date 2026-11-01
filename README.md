@@ -3,7 +3,7 @@
 </p>
 
 # <p align="center">
-  <img src="IMG_2531.png" width="100%" max-width="16px" alt="Before Effects Cover">
+  <img src="IMG_2531.png" width="32%" max-width="16px" alt="Before Effects Cover">
 </p> Before Effects
 
 **Before Effects** — это экспериментальный open-source видеоредактор и инструмент для моушен-дизайна, написанный на Python и PyQt6. 
