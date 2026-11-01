@@ -1,0 +1,17 @@
+{
+    "name": "Before Effects Environment",
+    "image": "://microsoft.com",
+    "features": {
+        "ghcr.io/devcontainers/features/desktop-lite:1": {
+            "version": "latest"
+        }
+    },
+    "postCreateCommand": "pip install PyQt6 opencv-python numpy",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
