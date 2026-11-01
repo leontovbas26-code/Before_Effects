@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="100%" max-width="800px" alt="Before Effects Cover">
+  <img src="IMG_2528.jpeg" width="100%" max-width="800px" alt="Before Effects Cover">
 </p>
 
 # 🎬 Before Effects
